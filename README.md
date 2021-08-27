@@ -13,7 +13,7 @@ El mismo se agrego a una app generada en **Lightning App Builder** para poder co
 * data (es un archivo.js que contiene datos para renderizar)
 
 ## Screenshots
-
+![imagen](https://user-images.githubusercontent.com/44064190/131172315-1d9c76a0-ab32-4419-9d6e-91eda0b764e3.png)
 
 ![imagen](https://user-images.githubusercontent.com/44064190/131171460-c096dc2c-a6f3-47b5-a770-466f8d5457ff.png)
 
