@@ -1,3 +1,12 @@
+# Proyecto con Lightning Web Components en Salesforce
+
+Proyecto para practicar **LWC** a traves de los trailheads. Se ven conceptos básicos como la conexión entre distintos componentes, padre e hijo. Envío de eventos, enví de parámetros, etc.
+El componente principal llamado **"selector"** se encuentra en la carpeta **force-app/main/default/lwc/**.
+El mismo se agrego a una app generada en **Lightning App Builder** para poder correrla en la org.
+
+## Screenshots
+![imagen](https://user-images.githubusercontent.com/44064190/131171460-c096dc2c-a6f3-47b5-a770-466f8d5457ff.png)
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
